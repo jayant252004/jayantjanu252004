@@ -1,8 +1,6 @@
-Sure! Here's a customized GitHub-style profile bio for you, modeled exactly like Tanmay Singh's format. Just let me know if you'd like any part of it updated or personalized further:
 
----
 
-# Hi there, I'm [JAYANT JANU ]! 👋  
+# Hi there, I'm JAYANT JANU ! 👋  
 🚀 **Aspiring Software Engineer | AI & Backend Development Enthusiast**
 
 I am a **B.Tech student in Computer Science Engineering**, passionate about **AI, backend systems, and scalable application development**. I enjoy diving deep into **problem-solving, system design, and real-world software applications**, and I’m always excited to explore new technologies and contribute meaningfully to impactful projects.
@@ -38,7 +36,3 @@ I am a **B.Tech student in Computer Science Engineering**, passionate about **AI
 
 
 Let’s turn ideas into impactful tech! 🚀
-
----
-
-Would you like me to fill in your real name, college, GitHub username, etc.?
